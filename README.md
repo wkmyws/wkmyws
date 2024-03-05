@@ -11,10 +11,6 @@
 - 🔎 I’m currently looking for job.  
 - 🏠[https://www.superyy.site/](https://www.superyy.site/)
 
---
-
-
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
 - 🚀 Frontend:
   ![Static Badge](https://img.shields.io/badge/JavaScript-%23000?logo=javascript)
