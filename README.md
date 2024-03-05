@@ -3,15 +3,13 @@
 <div align="center">
    <a target="_blank" href="https://www.superyy.site"><img src="https://img.shields.io/badge/superyy.site-%23555?style=for-the-badge&logo=google%20home" align="center"></a>
    |
-   <img src="https://komarev.com/ghpvc/?username=wkmyws&&style=for-the-badge&abbreviated=true&label=VIEWS&color=blueviolet&base=0" align="center" />
+   <a href="mailto:syy.apply@outlook.com"><img alt="Static Badge" src="https://img.shields.io/badge/Looking%20For-Job-%230969da?style=for-the-badge&labelColor=%23555555" align="center"></a>
+   |
+   <img src="https://komarev.com/ghpvc/?username=wkmyws&&style=for-the-badge&abbreviated=true&label=TOTAL+VIEWS&color=0969da&base=0" align="center" />
 </div>
 
 ## Intro
 
-- 🔎 I’m currently looking for job.  
-- 🏠[https://www.superyy.site/](https://www.superyy.site/)
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
 - 🚀 Frontend:
   ![Static Badge](https://img.shields.io/badge/JavaScript-%23000?logo=javascript)
   ![Static Badge](https://img.shields.io/badge/TypeScript-%23000?logo=typescript)
@@ -19,9 +17,6 @@
   ![Static Badge](https://img.shields.io/badge/Vite-%23000?logo=vite)
   ![Static Badge](https://img.shields.io/badge/Antd-%23000?logo=ant%20design)
   ![Static Badge](https://img.shields.io/badge/Pnpm-%23000?logo=pnpm)
-
-
-
 
 - 💻 Backend:
   ![Static Badge](https://img.shields.io/badge/Java-%23000?logo=openjdk&logoColor=fff)
@@ -58,13 +53,6 @@
   ![Static Badge](https://img.shields.io/badge/Rust-%23000?logo=rust)
 
 
-
-
-
-
-
-
-
 ## Stats  
 
 <div align="center">
@@ -85,14 +73,17 @@ Other                      27 mins         █░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
   
+## Contribution
 
+<div>
+   <div>
+      <a href="https://github.com/ant-design/ant-design/pull/47567"><img src="https://img.shields.io/badge/Antd-%2347567-%230e80c1?style=flat-square&logo=ant%20design&logoColor=%230969da&labelColor=%23555"></a>
+      <a href="https://github.com/ant-design/ant-design/pull/47487"><img src="https://img.shields.io/badge/Antd-%2347487-%230e80c1?style=flat-square&logo=ant%20design&logoColor=%230969da&labelColor=%23555"></a>
+      <a href="https://github.com/react-component/tree/pull/806"><img src="https://img.shields.io/badge/tree-%23806-%230e80c1?style=flat-square&logo=react&labelColor=%23555"></a>
+      <a href="https://github.com/dmlc/dgl/pull/6319"><img src="https://img.shields.io/badge/dgl.ai-%236319-%230e80c1?style=flat-square&logo=pyg&labelColor=%23555"></a>
+   </div>
+</div>
 
-  
-
-<br/>  
-
-
-<br />
 
 <div align="center">
 <!--   Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> -->
