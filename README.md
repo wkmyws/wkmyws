@@ -1,62 +1,79 @@
 ## <div align="center">Hi, there !👋 </div>  
-  
-
-- 🔎 I’m currently looking for job.  
-  
-
-- 🏠[https://www.superyy.site/](https://www.superyy.site/)  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Github Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats-rosy-xi.vercel.app/api?username=wkmyws&show_icons=true&theme=transparent&count_private=true" align="center" />
-<!--   <img src="https://github-readme-stats-rosy-xi.vercel.app/api/top-langs/?username=wkmyws&layout=pie&hide=C%23,html,matlab,asp.net,css,Mathematica" align="center" /> -->
+   <img src="https://komarev.com/ghpvc/?username=wkmyws&&style=for-the-badge&abbreviated=true&label=VIEWS&color=blueviolet&base=1000" align="center" />
+  |
+   <img src="https://img.shields.io/badge/superyy.site-%23555?style=for-the-badge&logo=google%20home&link=https%3A%2F%2Fwww.superyy.site" align="center">
+</div>
+
+## Intro
+
+- 🔎 I’m currently looking for job.  
+- 🏠[https://www.superyy.site/](https://www.superyy.site/)
+
+--
+
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
+- 🚀 Frontend:
+  ![Static Badge](https://img.shields.io/badge/JavaScript-%23000?logo=javascript)
+  ![Static Badge](https://img.shields.io/badge/TypeScript-%23000?logo=typescript)
+  ![Static Badge](https://img.shields.io/badge/React-%23000?logo=react)
+  ![Static Badge](https://img.shields.io/badge/Vite-%23000?logo=vite)
+  ![Static Badge](https://img.shields.io/badge/Antd-%23000?logo=ant%20design)
+  ![Static Badge](https://img.shields.io/badge/Pnpm-%23000?logo=pnpm)
+
+
+
+
+- 💻 Backend:
+  ![Static Badge](https://img.shields.io/badge/Java-%23000?logo=openjdk&logoColor=fff)
+  ![Static Badge](https://img.shields.io/badge/SpringBoot-%23000?logo=springboot)
+  ·
+  ![Static Badge](https://img.shields.io/badge/Python-%23000?logo=python)
+  ![Static Badge](https://img.shields.io/badge/Flask-%23000?logo=flask)
+  ·
+  ![Static Badge](https://img.shields.io/badge/Node-%23000?logo=node.js)
+  ![Static Badge](https://img.shields.io/badge/Koa-%23000?logo=koa)
+
+- 🛢️ DataBase:
+  ![Static Badge](https://img.shields.io/badge/MySQL-%23000?logo=mysql)
+  ![Static Badge](https://img.shields.io/badge/SqLite-%23000?logo=sqlite)
+  ![Static Badge](https://img.shields.io/badge/Redis-%23000?logo=redis)
+
+- 🖥️ System:
+  ![Static Badge](https://img.shields.io/badge/Ubuntu-%23000?logo=ubuntu)
+  ![Static Badge](https://img.shields.io/badge/raspi-%23000?logo=raspberry%20pi)
+  ![Static Badge](https://img.shields.io/badge/Debian-%23000?logo=debian)
+
+- 📓 Editor:
+  ![Static Badge](https://img.shields.io/badge/vscode-%23000?logo=visual-studio-code&logoColor=%2324adf3)
+  ![Static Badge](https://img.shields.io/badge/IDEA-%23000?logo=intellij%20idea)
+  ![Static Badge](https://img.shields.io/badge/Vim-%23000?logo=vim&logoColor=green)
+
+
+- ⚙️ Tools:
+  ![Static Badge](https://img.shields.io/badge/Git-%23000?logo=git)
+  ![Static Badge](https://img.shields.io/badge/Docker-%23000?logo=docker)
+  ![Static Badge](https://img.shields.io/badge/Nginx-%23000?logo=nginx)
+
+- 🧑‍💻 More:
+  ![Static Badge](https://img.shields.io/badge/Rust-%23000?logo=rust)
+
+
+
+
+
+
+
+
+
+## Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats-rosy-xi.vercel.app/api?username=wkmyws&show_icons=true&theme=transparent&count_private=true&line_height=20" align="center" />
+  <img src="https://github-readme-stats-rosy-xi.vercel.app/api/top-langs/?username=wkmyws&layout=compact&hide=C%23,html,matlab,asp.net,css,Mathematica" align="center" />
 </div>  
 <br/>  
 
@@ -73,11 +90,7 @@ Other                      27 mins         █░░░░░░░░░░░�
 <!--END_SECTION:waka-->
   
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wkmyws&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
