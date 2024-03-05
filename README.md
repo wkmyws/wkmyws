@@ -1,9 +1,9 @@
 ## <div align="center">Hi, there !👋 </div>  
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=wkmyws&&style=for-the-badge&abbreviated=true&label=VIEWS&color=blueviolet&base=1000" align="center" />
-  |
-   <img src="https://img.shields.io/badge/superyy.site-%23555?style=for-the-badge&logo=google%20home&link=https%3A%2F%2Fwww.superyy.site" align="center">
+   <a target="_blank" href="https://www.superyy.site"><img src="https://img.shields.io/badge/superyy.site-%23555?style=for-the-badge&logo=google%20home" align="center"></a>
+   |
+   <img src="https://komarev.com/ghpvc/?username=wkmyws&&style=for-the-badge&abbreviated=true&label=VIEWS&color=blueviolet&base=0" align="center" />
 </div>
 
 ## Intro
