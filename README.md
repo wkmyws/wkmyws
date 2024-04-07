@@ -30,7 +30,7 @@
 
 - 🛢️ DataBase:
   ![Static Badge](https://img.shields.io/badge/MySQL-%23000?logo=mysql)
-  ![Static Badge](https://img.shields.io/badge/SqLite-%23000?logo=sqlite)
+  ![Static Badge](https://img.shields.io/badge/SQLite-%23000?logo=sqlite)
   ![Static Badge](https://img.shields.io/badge/Redis-%23000?logo=redis)
 
 - 🖥️ System:
