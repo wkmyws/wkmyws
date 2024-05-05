@@ -64,10 +64,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 mins         ████████████████████████▓   98.16 %
-Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   1 hr 31 mins    ██████████████████████▒░░   88.88 %
+JavaScript   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 ```
 
 <!--END_SECTION:waka-->
