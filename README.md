@@ -3,8 +3,8 @@
 <div align="center">
    <a target="_blank" href="https://www.superyy.site"><img src="https://img.shields.io/badge/superyy.site-%23555?style=for-the-badge&logo=google%20home" align="center"></a>
    |
-   <a href="mailto:syy.apply@outlook.com"><img alt="Static Badge" src="https://img.shields.io/badge/Looking%20For-Job-%230969da?style=for-the-badge&labelColor=%23555555" align="center"></a>
-   |
+<!--    <a href="mailto:syy.apply@outlook.com"><img alt="Static Badge" src="https://img.shields.io/badge/Looking%20For-Job-%230969da?style=for-the-badge&labelColor=%23555555" align="center"></a> -->
+<!--    | -->
    <img src="https://komarev.com/ghpvc/?username=wkmyws&&style=for-the-badge&abbreviated=true&label=TOTAL+VIEWS&color=0969da&base=0" align="center" />
 </div>
 
