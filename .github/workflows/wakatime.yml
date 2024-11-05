@@ -5,12 +5,15 @@ on:
   schedule:
     # Runs at 12am UTC
     - cron: "0 * * * *"
+  push:
+    paths:
+      - ".github/workflows/wakatime.yml" # 指定文件路径，更新此文件时触发
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
