@@ -78,6 +78,7 @@ Other      17 mins         ██▒░░░░░░░░░░░░░░�
       <a href="https://github.com/ant-design/ant-design/pull/47487"><img src="https://img.shields.io/badge/Antd-%2347487-%230e80c1?style=flat-square&logo=ant%20design&logoColor=%230969da&labelColor=%23555"></a>
       <a href="https://github.com/react-component/tree/pull/806"><img src="https://img.shields.io/badge/tree-%23806-%230e80c1?style=flat-square&logo=react&labelColor=%23555"></a>
       <a href="https://github.com/dmlc/dgl/pull/6319"><img src="https://img.shields.io/badge/dgl.ai-%236319-%230e80c1?style=flat-square&logo=pyg&labelColor=%23555"></a>
+      <a href="[https://github.com/pyrossh/rust-embed/pull/253](https://github.com/pyrossh/rust-embed/pull/253)"><img src="https://img.shields.io/badge/rust--embed-%23806-%230e80c1?style=flat-square&logo=rust&labelColor=%23555"></a>
    </div>
 </div>
 
