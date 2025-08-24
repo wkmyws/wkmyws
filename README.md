@@ -1,7 +1,7 @@
 ## <div align="center">Hi, there !👋 </div>  
 
 <div align="center">
-   <a target="_blank" href="https://home-rs.vercel.app"><img src="https://img.shields.io/badge/superyy.fun-%23555?style=for-the-badge&logo=google%20home" align="center"></a>
+   <a target="_blank" href="https://superyy.fun"><img src="https://img.shields.io/badge/superyy.fun-%23555?style=for-the-badge&logo=google%20home" align="center"></a>
    |
 <!--    <a href="mailto:syy.apply@outlook.com"><img alt="Static Badge" src="https://img.shields.io/badge/Looking%20For-Job-%230969da?style=for-the-badge&labelColor=%23555555" align="center"></a> -->
 <!--    | -->
