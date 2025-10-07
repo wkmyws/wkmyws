@@ -64,9 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Caddyfile   0 hrs 0 mins    ██████████████████████░░░   87.50 %
-Json        0 hrs 0 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-YAML        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Typescript   0 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.95 %
+INI          0 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+YAML         0 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+Json         0 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Javascript   0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
