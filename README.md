@@ -53,11 +53,10 @@
   ![Static Badge](https://img.shields.io/badge/Rust-%23000?logo=rust)
 
 
-## Stats  
-
+## Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wkmyws&show_icons=true&theme=transparent&count_private=true&line_height=20" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkmyws&layout=compact&hide=C%23,html,matlab,asp.net,css,Mathematica" align="center" />
+  <img src="https://github-readme-stats-puce-tau.vercel.app/api?username=wkmyws&show_icons=true&theme=transparent&count_private=true&line_height=20" align="center" />
+  <img src="https://github-readme-stats-puce-tau.vercel.app/api/top-langs/?username=wkmyws&layout=compact&hide=C%23,html,matlab,asp.net,css,Mathematica" align="center" />
 </div>  
 <br/>  
 
