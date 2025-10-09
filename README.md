@@ -60,19 +60,8 @@
 </div>  
 <br/>  
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 30 September 2025 - To: 09 October 2025
-
-Vue                          █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-Typescript                   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Rust                         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Unknown                      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Json                         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-```
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:wakaNO-->
+<!--END_SECTION:wakaNO-->
   
 ## Contribution
 
